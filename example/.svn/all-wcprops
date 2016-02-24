@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example
+END
+testedgeDetection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testedgeDetection.cpp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/.project
+END
+testhough.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testhough.bmp
+END
+testpadding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testpadding.cpp
+END
+sin-0-50.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/sin-0-50.pgm
+END
+testHough.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testHough.cpp
+END
+testhough.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testhough.pgm
+END
+createsin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/createsin.cpp
+END
+createmachband.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/createmachband.cpp
+END
+sin-0-100.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/sin-0-100.pgm
+END
+testaddNoise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testaddNoise.cpp
+END
+readwrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/readwrite.cpp
+END
+testpointProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testpointProcessing.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/Makefile
+END
+.cdtproject
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/.cdtproject
+END
+testmatrixProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testmatrixProcessing.cpp
+END
+test1.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/test1.pgm
+END
+test2.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/test2.pgm
+END
+test3.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/test3.pgm
+END
+testfft_pad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testfft_pad.cpp
+END
+testconv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testconv.cpp
+END
+sin-0-50.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/sin-0-50.jpg
+END
+testPara2.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testPara2.pgm
+END
+testPara3.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testPara3.pgm
+END
+testcolorProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testcolorProcessing.cpp
+END
+sin-0-50.eps
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/sin-0-50.eps
+END
+testmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testmap.cpp
+END
+test.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/test.pgm
+END
+sin-0-100.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/sin-0-100.jpg
+END
+testImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testImage.cpp
+END
+readwrite_color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/readwrite_color.cpp
+END
+testPara.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testPara.pgm
+END
+testMorph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testMorph.cpp
+END
+sin-0-100.eps
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/sin-0-100.eps
+END
+testmedian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/aicip/!svn/ver/174/code/ipl/trunk/example/testmedian.cpp
+END

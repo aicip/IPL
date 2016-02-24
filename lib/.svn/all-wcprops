@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib
+END
+.cdtproject
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/.cdtproject
+END
+lowpassFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/lowpassFilter.cpp
+END
+geocorr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/geocorr.cpp
+END
+mapmfa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/mapmfa.cpp
+END
+marr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/marr.cpp
+END
+matrixProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/matrixProcessing.cpp
+END
+freqFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/freqFilter.cpp
+END
+edgeDetection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/edgeDetection.cpp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/.project
+END
+utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/utility.cpp
+END
+conv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/conv.cpp
+END
+libimage.a
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/aicip/!svn/ver/175/code/ipl/trunk/lib/libimage.a
+END
+canny.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/canny.cpp
+END
+imageIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/imageIO.cpp
+END
+hough.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/hough.cpp
+END
+colorProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/colorProcessing.cpp
+END
+transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/transform.cpp
+END
+fft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/fft.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/Image.cpp
+END
+morph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/morph.cpp
+END
+addNoise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/addNoise.cpp
+END
+pointProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/aicip/!svn/ver/175/code/ipl/trunk/lib/pointProcessing.cpp
+END
+wt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/wt.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/aicip/!svn/ver/174/code/ipl/trunk/lib/Makefile
+END

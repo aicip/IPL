@@ -1,0 +1,165 @@
+EXES = createsin testImage testaddNoise testmatrixProcessing \
+	testpointProcessing testedgeDetection testcolorProcessing \
+	testmap createmachband createsquare createsimucontrast \
+	createtri createwasher createline testHough testfft testfft_pad \
+	testfreqFilter testtransform testwt testpadding testmedian \
+	readwrite readwrite_color testconv
+
+all:
+	${MAKE} ${EXES}
+
+INCLUDE = -I../include
+LIB = -L../lib
+
+testconv: testconv.o 
+	g++ -o testconv testconv.o $(LIB) -limage
+
+testconv.o: testconv.cpp
+	g++ -c testconv.cpp $(INCLUDE)
+
+readwrite_color: readwrite_color.o 
+	g++ -o readwrite_color readwrite_color.o $(LIB) -limage
+
+readwrite_color.o: readwrite_color.cpp
+	g++ -c readwrite_color.cpp $(INCLUDE)
+
+readwrite: readwrite.o 
+	g++ -o readwrite readwrite.o $(LIB) -limage
+
+readwrite.o: readwrite.cpp
+	g++ -c readwrite.cpp $(INCLUDE)
+
+testmedian: testmedian.o 
+	g++ -o testmedian testmedian.o $(LIB) -limage
+
+testmedian.o: testmedian.cpp
+	g++ -c testmedian.cpp $(INCLUDE)
+
+testpadding: testpadding.o 
+	g++ -o testpadding testpadding.o $(LIB) -limage
+
+testpadding.o: testpadding.cpp
+	g++ -c testpadding.cpp $(INCLUDE)
+
+testwt: testwt.o 
+	g++ -o testwt testwt.o $(LIB) -limage
+
+testwt.o: testwt.cpp
+	g++ -c testwt.cpp $(INCLUDE)
+
+testtransform: testtransform.o 
+	g++ -o testtransform testtransform.o $(LIB) -limage
+
+testtransform.o: testtransform.cpp
+	g++ -c testtransform.cpp $(INCLUDE)
+
+testfreqFilter: testfreqFilter.o 
+	g++ -o testfreqFilter testfreqFilter.o $(LIB) -limage
+
+testfreqFilter.o: testfreqFilter.cpp
+	g++ -c testfreqFilter.cpp $(INCLUDE)
+
+testfft_pad: testfft_pad.o 
+	g++ -o testfft_pad testfft_pad.o $(LIB) -limage
+
+testfft_pad.o: testfft_pad.cpp
+	g++ -c testfft_pad.cpp $(INCLUDE)
+
+testfft: testfft.o 
+	g++ -o testfft testfft.o $(LIB) -limage
+
+testfft.o: testfft.cpp
+	g++ -c testfft.cpp $(INCLUDE)
+
+createline: createline.o 
+	g++ -o createline createline.o $(LIB) -limage
+
+createline.o: createline.cpp
+	g++ -c createline.cpp $(INCLUDE)
+
+createwasher: createwasher.o 
+	g++ -o createwasher createwasher.o $(LIB) -limage
+
+createwasher.o: createwasher.cpp
+	g++ -c createwasher.cpp $(INCLUDE)
+
+createtri: createtri.o 
+	g++ -o createtri createtri.o $(LIB) -limage
+
+createtri.o: createtri.cpp
+	g++ -c createtri.cpp $(INCLUDE)
+
+createsimucontrast: createsimucontrast.o 
+	g++ -o createsimucontrast createsimucontrast.o $(LIB) -limage
+
+createsimucontrast.o: createsimucontrast.cpp
+	g++ -c createsimucontrast.cpp $(INCLUDE)
+
+createsquare: createsquare.o 
+	g++ -o createsquare createsquare.o $(LIB) -limage
+
+createsquare.o: createsquare.cpp
+	g++ -c createsquare.cpp $(INCLUDE)
+
+createmachband: createmachband.o 
+	g++ -o createmachband createmachband.o $(LIB) -limage
+
+createmachband.o: createmachband.cpp
+	g++ -c createmachband.cpp $(INCLUDE)
+
+createsin: createsin.o 
+	g++ -o createsin createsin.o $(LIB) -limage
+
+createsin.o: createsin.cpp
+	g++ -c createsin.cpp $(INCLUDE)
+
+testHough: testHough.o 
+	g++ -o testHough testHough.o $(LIB) -limage
+
+testImage: testImage.o 
+	g++ -o testImage testImage.o $(LIB) -limage
+
+testaddNoise: testaddNoise.o 
+	g++ -o testaddNoise testaddNoise.o $(LIB) -limage
+
+testmatrixProcessing: testmatrixProcessing.o 
+	g++ -o testmatrixProcessing testmatrixProcessing.o $(LIB) -limage
+
+testpointProcessing: testpointProcessing.o 
+	g++ -o testpointProcessing testpointProcessing.o $(LIB) -limage
+
+testedgeDetection: testedgeDetection.o 
+	g++ -o testedgeDetection testedgeDetection.o $(LIB) -limage
+
+testcolorProcessing: testcolorProcessing.o
+	g++ -o testcolorProcessing testcolorProcessing.o $(LIB) -limage
+
+testmap: testmap.o
+	g++ -o testmap testmap.o $(LIB) -limage
+	
+testHough.o: testHough.cpp
+	g++ -c testHough.cpp $(INCLUDE)
+
+testImage.o: testImage.cpp
+	g++ -c testImage.cpp $(INCLUDE)
+
+testaddNoise.o: testaddNoise.cpp
+	g++ -c testaddNoise.cpp $(INCLUDE)
+
+testmatrixProcessing.o: testmatrixProcessing.cpp
+	g++ -c testmatrixProcessing.cpp $(INCLUDE)
+
+testpointProcessing.o: testpointProcessing.cpp
+	g++ -c testpointProcessing.cpp $(INCLUDE)
+
+testedgeDetection.o: testedgeDetection.cpp
+	g++ -c testedgeDetection.cpp $(INCLUDE)
+
+testcolorProcessing.o: testcolorProcessing.cpp
+	g++ -c testcolorProcessing.cpp $(INCLUDE)
+
+testmap.o: testmap.cpp
+	g++ -c testmap.cpp $(INCLUDE)
+		
+clean: 
+	-rm -rf *.o

@@ -13,10 +13,10 @@ The library contains the following files:
 
 README - this file
 
-\include - header files
-  Image.h: defines the new Image class.
-  Dip.h: declares various functions for DIP and MV
-  Map.h: contains parameters used for MAP
+\include - header files\\
+  Image.h: defines the new Image class.\\
+  Dip.h: declares various functions for DIP and MV\\
+  Map.h: contains parameters used for MAP\\
 
 \lib - library files
   Makefile: makefile to build the image library

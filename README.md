@@ -11,14 +11,18 @@ For bugs and comments, please contact Hairong Qi, hqi@utk.edu.
 
 The library contains the following files:
 
-README - this file
+##README - this file##
 
-\include - header files\\
-  Image.h: defines the new Image class.\\
-  Dip.h: declares various functions for DIP and MV\\
-  Map.h: contains parameters used for MAP\\
+##\include - header files##
 
-\lib - library files
+  Image.h: defines the new Image class.
+  
+  Dip.h: declares various functions for DIP and MV
+  
+  Map.h: contains parameters used for MAP
+
+##\lib - library files##
+
   Makefile: makefile to build the image library
   wt.cpp: 1-D and 2-D wavelet transform
       (daub4, wt1d, wt2d)
@@ -55,7 +59,7 @@ README - this file
   mapmfa.cpp: use mfa to solve map
       (mfamap, linear)
 
-\example - test codes
+##\example - test codes##
   Makefile: to compile all the test codes
   testImage.cpp: test code for the Image class.
   testmatrixProcessing.cpp: test code for matrix processing algorithms.
